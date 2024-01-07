@@ -10,6 +10,10 @@ Welcome to the Responsive Landing Page for Nike Shoes, a fictional and innovativ
 - **CSS:** Styles the page, making it visually appealing and consistent.
 - **JavaScript:** Adds interactivity and dynamic behavior to the page.
 
+## Live
+
+https://guidopellegrini.github.io/landing-page-shoes/
+
 ## Preview
 
 ![Nike Shoes Landing Page](./preview.png)
